@@ -1,0 +1,1 @@
+Tuve un problema con la cuenta principal por los archivos git LFS, los cuales llegaron a su cupo máximo y me obligó a usar otra cuenta para poder montar los cambios realizados. Es por eso de lo reciente del proyecto.
